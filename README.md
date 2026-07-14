@@ -347,7 +347,7 @@ Laporan otomatis yang bisa diexport ke file:
 **Solution**: Pastikan menjalankan dari root project directory:
 
 ```bash
-cd Sistem-Managemen-Restoran
+cd sistem-manajemen-restoran
 python src/Main.py
 ```
 
