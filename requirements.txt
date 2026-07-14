@@ -1,0 +1,7 @@
+# Restaurant Management System - Dependencies
+# Python 3.8+
+# Note: sqlite3 is built-in to Python, no additional installation needed
+
+# Optional: for command-line interface enhancements (currently not used)
+# colorama>=0.4.4
+# rich>=10.0.0
