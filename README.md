@@ -165,7 +165,7 @@ Sistem-Managemen-Restoran/
 1. **Clone atau download project**
 
    ```bash
-   cd Sistem-Managemen-Restoran
+   cd sistem-manajemen-restoran
    ```
 
 2. **Install dependencies (opsional, sqlite3 built-in)**
